@@ -5,6 +5,7 @@ $(document).ready(function () {
     $('#btnDivision').on('click', divideNumbers)
 });
     
+/*** Long Notation ***/
 /*function addNumbers() {
     var x = $('#x').val();
     var y = $('#y').val();
@@ -21,6 +22,7 @@ $(document).ready(function () {
     });
 }*/
 
+/*** Short Notation ***/
 function addNumbers() {
     var x = $('#x').val();
     var y = $('#y').val();
